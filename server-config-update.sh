@@ -1,15 +1,3 @@
-#!/bin/bash
-# ==============================================================
-# About:
-#        Update ihergo configs like web.xml, IhergoConstants.java and hibernate.cfg.xml...
-#
-# ==============================================================
-# History
-# When          Who       What
-# 2011/03/14    Youchen   File created
-#
-# ==============================================================
-
 IHERGO_PATH=$1
 TYPE=$2
 TODAY=`date +%Y%m%d%H`
